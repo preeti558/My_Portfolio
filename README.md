@@ -3,7 +3,7 @@
 
 A modern and responsive **React Portfolio** made with 💙 and a beautiful UI to showcase my skills, projects, and achievements.
 
-🔗 **Live Preview:** [Click here to view](https://your-live-site-link.com) 
+🔗 **Live Preview:** [Click here to view](https://preeti-profile.netlify.app/) 
 
 ---
 
