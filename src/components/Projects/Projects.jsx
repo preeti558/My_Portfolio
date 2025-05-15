@@ -25,13 +25,13 @@ const webItem = [
     githubLink: 'https://github.com/preeti558/JobDhundo_Backend'
   },
   {
-    link: 'https://github.com/preeti558',
+    link: 'https://preeti-profile.netlify.app/',
     title: 'My_Portfolio website',
     techStack: 'Tech Stack: React JS',
     desc: ' ',
     image: Project2,
     color: '#0FFFFF',
-    githubLink: 'https://github.com/preeti558'
+    githubLink: 'https://github.com/preeti558/My_Portfolio'
   },
   {
     link: 'https://github.com/preeti558/Vivah-matrimonialWebsite',

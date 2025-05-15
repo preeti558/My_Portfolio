@@ -9,6 +9,7 @@ import instagram from '../images/instagram.png';
 import twitter from '../images/twitterx.png';
 import linkedin from '../images/linkedin.png';
 import gmail from '../images/gmail.png';
+import whatsapp from '../images/whatsapp.png';
 
 export default function Sidebar() {
   const container = {
@@ -32,16 +33,20 @@ export default function Sidebar() {
       href: 'https://www.linkedin.com/in/preeti-verma-94611a253/'
     },
     {
-      component: twitter,
-      href: '#'
-    },
-    {
       component: instagram,
-      href: '#'
+      href: 'https://instagram.com/preetiverma4555'
     },
     {
       component: gmail,
       href: 'mailto:preetiverma0204@gmail.com'
+    },
+     {
+      component: whatsapp,
+      href: 'https://wa.me/9354900427'
+    },
+     {
+      component: twitter,
+      href: '#'
     }
   ];
   const item = {
